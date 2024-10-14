@@ -1,0 +1,14 @@
+{
+  "originHash" : "3236e218cf59f0dbe361d2d69bad484a304622e7af1415f01f1816aa572ea7f6",
+  "pins" : [
+    {
+      "identity" : "runestone",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/simonbs/Runestone",
+      "state" : {
+        "revision" : "e1a3fc13a99f25e82353bc763e748fafe5b99525"
+      }
+    }
+  ],
+  "version" : 3
+}
